@@ -1,0 +1,24 @@
+Game Tips:
+  1. Explore the Facility
+  2. Roleplay in the Facility
+  3. Try Out different roles
+  4. Fight back against rebels as security forces
+  5. Chat in the cafeteria
+  6. Search for easter eggs
+  7. Play around with core controls
+  8. Have fun!
+Rules:
+  1. Roleplay is optional, but is highly recommended.
+  2. Exploiting is prohibited. Exploiters will be Banned.
+  3. No spamming in chat. Spammers will result in a game-wide MUTE.
+  4. No spawn camping
+Commands:
+  1. !toggleaccs - Remove avatar accessories
+  2. !togglemorphhead - Removes Morph head accessories
+  3. !customize - Toggle certain head and body cccessories
+Controls:
+  Keyboard Controls
+    Toggle Gun Camera: Y
+    Run: Shift
+  Console Controls
+    Coming Soon
