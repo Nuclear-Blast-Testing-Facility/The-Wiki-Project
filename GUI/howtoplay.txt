@@ -16,6 +16,7 @@ Commands:
   1. !toggleaccs - Remove avatar accessories
   2. !togglemorphhead - Removes Morph head accessories
   3. !customize - Toggle certain head and body cccessories
+  4. :rejoin - Rejoin the server
 Controls:
   Keyboard Controls
     Toggle Gun Camera: Y
