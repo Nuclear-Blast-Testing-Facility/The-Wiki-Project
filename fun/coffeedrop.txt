@@ -1,1 +1,1 @@
-
+make anything droppable land on the top of anything by dropping it inside the wall or hitbox of the object and then it will work with roblox physics. stand a little bit away and bress backspace to drop the coffee mug
